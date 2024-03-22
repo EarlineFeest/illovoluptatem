@@ -1,0 +1,20 @@
+{
+  "name": "illovoluptatem",
+  "title": "Micro reactive, two-way binding and hooks JavaScript vanilla library.",
+  "description": "Lemonade is a lightweight, micro reactive vanilla javascript library to create quick and reusable JS components without dependencies.",
+  "author": "JedidiahJakubowski",
+  "keywords": [
+    "reactive",
+    "two-way binding",
+    "hooks",
+    "non",
+    "library"
+  ],
+  "main": "dist/lemonade.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EarlineFeest/illovoluptatem.git"
+  },
+  "homepage": "https://github.com/EarlineFeest/illovoluptatem.git"
+}
